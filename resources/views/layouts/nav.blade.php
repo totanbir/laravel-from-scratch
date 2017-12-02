@@ -2,6 +2,7 @@
       <div class="container">
         <nav class="nav blog-nav">
           <a class="nav-link" href="/">Home</a>
+          <a class="nav-link" href="/posts/create">Post</a>
            @if(!Auth::check())
           <a class="nav-link" href="/login">Sign-in</a>
            @endif
