@@ -1,6 +1,6 @@
 # Laravel Crud App
 
-A simple crud App with Laravel 5.5.
+Laravel from scratch web application with Laravel 5.5.
 
 ## Installation
 
