@@ -1,4 +1,4 @@
-# Laravel Crud App
+# Laravel from scratch web application
 
 Laravel from scratch web application with Laravel 5.5.
 
