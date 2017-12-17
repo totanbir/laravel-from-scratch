@@ -1,9 +1,9 @@
 {
-    "name": "ToTanbir/laravel-from-scratch",
+    "name": "totanbir/laravel-from-scratch",
     "type": "library",
     "description": "Laravel from scratch web application",
     "keywords": ["blog","laravel","curd","scratch"],
-    "homepage": "https://github.com/ToTanbir/laravel-from-scratch",
+    "homepage": "https://github.com/totanbir/laravel-from-scratch",
     "license": "MIT",
     "authors": [
         {
